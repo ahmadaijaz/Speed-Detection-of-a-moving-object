@@ -11,7 +11,3 @@ Description:
 PS: For time we have divided the total frames by 27 , because in 1 second, 27 frames are generated 
 so we started the counter till the last frame created. Then we divided that counter by 27 to get the time in seconds
 The speed is in metre per second.
-
-Sir we could not make the original video because we had no resource. We hope that you understand.
-
-Thank You So Much.
